@@ -1,0 +1,29 @@
+[
+  {
+    "round": 1,
+    "accuracy": 94.93,
+    "precision": 95.09,
+    "recall": 94.93,
+    "f1_score": 94.92,
+    "privacy_index": 50.0,
+    "latency_ms": 220.11
+  },
+  {
+    "round": 2,
+    "accuracy": 94.2,
+    "precision": 94.26,
+    "recall": 94.2,
+    "f1_score": 94.21,
+    "privacy_index": 50.0,
+    "latency_ms": 223.19
+  },
+  {
+    "round": 3,
+    "accuracy": 93.48,
+    "precision": 93.81,
+    "recall": 93.48,
+    "f1_score": 93.42,
+    "privacy_index": 50.0,
+    "latency_ms": 212.3
+  }
+]

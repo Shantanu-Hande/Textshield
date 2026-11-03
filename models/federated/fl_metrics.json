@@ -1,0 +1,9 @@
+{
+  "accuracy": 93.48,
+  "precision": 93.81,
+  "recall": 93.48,
+  "f1_score": 93.42,
+  "privacy_index": 50.0,
+  "num_clients": 4,
+  "fl_rounds": 3
+}

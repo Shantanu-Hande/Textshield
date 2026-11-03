@@ -1,0 +1,14 @@
+{
+  "label2id": {
+    "Safe": 0,
+    "Spam": 1,
+    "Phishing": 2,
+    "Abusive": 3
+  },
+  "id2label": {
+    "0": "Safe",
+    "1": "Spam",
+    "2": "Phishing",
+    "3": "Abusive"
+  }
+}
